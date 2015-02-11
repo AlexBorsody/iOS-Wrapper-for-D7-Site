@@ -66,7 +66,7 @@ UIWebView *webView3;
     NSLog(@"%@",currentURL);
     NSLog(@"%@",currentURL2);
     //webView3.hidden = NO ;
-     _imageView.hidden = NO;
+    _imageView.hidden = NO;
     
 }
 
